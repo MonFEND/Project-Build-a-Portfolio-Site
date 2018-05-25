@@ -1,0 +1,86 @@
+/* my global css*/
+body{
+  padding-left: 200px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Helvetica","Verdana","sans-serif";
+  color: #2d3c49;
+  background: #fff;
+  margin: 0 1.5% 24px 1.5%;
+}
+
+hr{
+  border-top: 5px solid #7d97ad;
+}
+.avatar{
+  height: 80px;
+  width: 30%;
+  margin-top: 1px;
+  float: left;
+}
+/* my profile css*/
+.profile{
+  color: #2d3c49;
+  margin-top: 0px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.profile_name{
+  margin: 0;
+  font-size: 4.0em;
+  font-weight:100;
+}
+
+.profile_job{
+    margin-top: 0px;
+    font-size: 1.4em;
+    font-weight:100;
+  }
+/*my featured projects css*/
+.featured_projects{
+color:#7d97ad;
+font-size: 2.0em;
+padding-left: 20px;
+}
+
+.col-md-4 {
+  float: left;
+  width: 31%;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.grid_container:after{
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+.capture{
+  column-gap:20px;
+}
+
+.project{
+  text-align: center;
+}
+
+.project_title{
+  color: #2d3c49;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.project_link{
+  font-size: 1.25em;
+  color: #02b3e4
+}
+/* footer css*/
+ .footer_title{
+   margin-top: 50px;
+   padding: 20px;
+   font-size: 10px;
+   text-align: center;
+   font-weight: 200;
+ }
