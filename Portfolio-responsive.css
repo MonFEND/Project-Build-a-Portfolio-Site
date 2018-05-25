@@ -1,0 +1,105 @@
+/* responsive css for large devices*/
+@media only screen and  (max-width: 1200px){
+  .profile {
+  text-align: center;
+  width: 100%;
+}
+.col-md-4{
+  text-align: center;
+  width: 100%;
+}
+.avatar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer_title{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+}
+/* responsive css for medium devices*/
+@media only screen and  (max-width: 765px){
+  .profile {
+  text-align: center;
+  width: 100%;
+}
+.col-md-4{
+  text-align: center;
+  width: 100%;
+}
+.avatar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer_title{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+}
+/*responsive css for tables (landscape view)*/
+@media only screen and  (max-width: 600px){
+  .profile {
+  text-align: center;
+  width: 100%;
+}
+.col-md-4{
+  text-align: center;
+  width: 100%;
+}
+.avatar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer_title{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+}
+/* responsive css for tables (portrait view) */
+@media only screen and  (max-width: 480px){
+  .profile {
+  text-align: center;
+  width: 100%;
+}
+.col-md-4{
+  text-align: center;
+  width: 100%;
+}
+.avatar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer_title{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+}
+/* responsive css for small screen such smart phones*/
+@media only screen and  (max-width: 360px){
+  .profile {
+  text-align: center;
+  width: 100%;
+}
+.col-md-4{
+  text-align: center;
+  width: 100%;
+}
+.avatar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer_title{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+}
